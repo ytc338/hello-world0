@@ -1,2 +1,2 @@
 # hello-world
-Try
+Try to write some code.
